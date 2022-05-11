@@ -1,0 +1,7 @@
+com\manoelcampos\rest\CepResource.class
+com\manoelcampos\cepservice\CepService.class
+com\manoelcampos\cepservice\AbstractCepService.class
+com\manoelcampos\cepservice\ViaCepService.class
+com\manoelcampos\model\Endereco.class
+com\manoelcampos\cepservice\WidnetCepService.class
+com\manoelcampos\cepservice\PostmonCepService.class
